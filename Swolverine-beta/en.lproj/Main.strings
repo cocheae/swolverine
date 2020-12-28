@@ -1,0 +1,102 @@
+
+/* Class = "UIButton"; normalTitle = "Finish Workout"; ObjectID = "2yf-QD-a7o"; */
+"2yf-QD-a7o.normalTitle" = "Finish Workout";
+
+/* Class = "UILabel"; text = "Reps:"; ObjectID = "3kx-Cb-P8O"; */
+"3kx-Cb-P8O.text" = "Reps:";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "55l-sx-FqS"; */
+"55l-sx-FqS.normalTitle" = "+";
+
+/* Class = "UITextField"; text = "Excercise Name"; ObjectID = "8UR-K8-pe5"; */
+"8UR-K8-pe5.text" = "Excercise Name";
+
+/* Class = "UILabel"; text = "X"; ObjectID = "AD3-Er-DM6"; */
+"AD3-Er-DM6.text" = "X";
+
+/* Class = "UITextField"; text = "Reps"; ObjectID = "Bfd-7L-ceL"; */
+"Bfd-7L-ceL.text" = "Reps";
+
+/* Class = "UIButton"; normalTitle = "Bodyweight"; ObjectID = "Bnp-bg-3Ya"; */
+"Bnp-bg-3Ya.normalTitle" = "Bodyweight";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "DvO-62-UMT"; */
+"DvO-62-UMT.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "Dumbells"; ObjectID = "HOe-Sy-vR1"; */
+"HOe-Sy-vR1.normalTitle" = "Dumbells";
+
+/* Class = "UILabel"; text = "WEIGHTS"; ObjectID = "Qbd-Tl-G2i"; */
+"Qbd-Tl-G2i.text" = "WEIGHTS";
+
+/* Class = "UILabel"; text = "BODYWEIGHT"; ObjectID = "RDP-Cw-3Hx"; */
+"RDP-Cw-3Hx.text" = "BODYWEIGHT";
+
+/* Class = "UILabel"; text = "X"; ObjectID = "RlZ-nw-Avv"; */
+"RlZ-nw-Avv.text" = "X";
+
+/* Class = "UIButton"; normalTitle = "Finish Workout"; ObjectID = "SO7-Y8-DdV"; */
+"SO7-Y8-DdV.normalTitle" = "Finish Workout";
+
+/* Class = "UITextField"; text = "Excercise Name"; ObjectID = "SYj-UA-Htv"; */
+"SYj-UA-Htv.text" = "Excercise Name";
+
+/* Class = "UITextField"; text = "Reps"; ObjectID = "Tm7-Ic-giz"; */
+"Tm7-Ic-giz.text" = "Reps";
+
+/* Class = "UITextField"; text = "Sets"; ObjectID = "WVn-eY-3Vf"; */
+"WVn-eY-3Vf.text" = "Sets";
+
+/* Class = "UITextField"; text = "Weight(Lbs)"; ObjectID = "YxK-4c-Z6P"; */
+"YxK-4c-Z6P.text" = "Weight(Lbs)";
+
+/* Class = "UITextField"; text = "Weight(Lbs)"; ObjectID = "dK4-2q-GE1"; */
+"dK4-2q-GE1.text" = "Weight(Lbs)";
+
+/* Class = "UILabel"; text = "Weight:"; ObjectID = "e3C-Qy-j6e"; */
+"e3C-Qy-j6e.text" = "Weight:";
+
+/* Class = "UITextField"; text = "Excercise Name"; ObjectID = "fOW-OJ-ne3"; */
+"fOW-OJ-ne3.text" = "Excercise Name";
+
+/* Class = "UILabel"; text = "Sets Completed:"; ObjectID = "fYa-NX-azx"; */
+"fYa-NX-azx.text" = "Sets Completed:";
+
+/* Class = "UITextField"; text = "Sets"; ObjectID = "gQ8-Qz-b9m"; */
+"gQ8-Qz-b9m.text" = "Sets";
+
+/* Class = "UIButton"; normalTitle = "Another Excercise"; ObjectID = "hG9-Qu-OdX"; */
+"hG9-Qu-OdX.normalTitle" = "Another Excercise";
+
+/* Class = "UILabel"; text = "X"; ObjectID = "l8C-1A-2Jx"; */
+"l8C-1A-2Jx.text" = "X";
+
+/* Class = "UIButton"; normalTitle = "Another Excercise"; ObjectID = "l8N-VI-IHj"; */
+"l8N-VI-IHj.normalTitle" = "Another Excercise";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "lR6-iD-32A"; */
+"lR6-iD-32A.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Reps:"; ObjectID = "llM-Ul-HI7"; */
+"llM-Ul-HI7.text" = "Reps:";
+
+/* Class = "UIButton"; normalTitle = "Weights"; ObjectID = "mZK-ob-lwp"; */
+"mZK-ob-lwp.normalTitle" = "Weights";
+
+/* Class = "UILabel"; text = "DUMBELLS"; ObjectID = "nVE-A5-6l1"; */
+"nVE-A5-6l1.text" = "DUMBELLS";
+
+/* Class = "UILabel"; text = "SWOLVERINE"; ObjectID = "rG0-tM-UIo"; */
+"rG0-tM-UIo.text" = "SWOLVERINE";
+
+/* Class = "UILabel"; text = "Sets Completed:"; ObjectID = "sRS-Mf-9mB"; */
+"sRS-Mf-9mB.text" = "Sets Completed:";
+
+/* Class = "UITextField"; text = "Sets"; ObjectID = "vZr-9t-Oni"; */
+"vZr-9t-Oni.text" = "Sets";
+
+/* Class = "UITextField"; text = "Reps"; ObjectID = "wJU-h2-2hl"; */
+"wJU-h2-2hl.text" = "Reps";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "xhn-Vs-DS1"; */
+"xhn-Vs-DS1.normalTitle" = "-";
